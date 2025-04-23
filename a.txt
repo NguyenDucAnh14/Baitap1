@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Xin chao Nguyen Duc Anh
+=======
+ducanh
+>>>>>>> test push
